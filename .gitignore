@@ -1,0 +1,15 @@
+# macOS junk
+.DS_Store
+._*
+__MACOSX/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Datasets and generated SQLite databases (exceed GitHub 100MB file limit)
+*.db
+student_resource/dataset/
+student_resource/output/
